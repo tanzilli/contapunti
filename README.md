@@ -1,4 +1,4 @@
-#Contapunti
+# Contapunti
 
 Contapunti per biliardino
 
@@ -6,7 +6,7 @@ Contapunti per biliardino
 * [acmepins.py](acmepins.py) Modulo di gestione dei pin di Arietta G25
 * [cronometro.py](cronometro.py) Modulo per la misurazione del tempo di gioco trascorso
 
-##Pacchetti da installare 
+## Pacchetti da installare 
 
 * [Python-Telegram-Bot](https://github.com/python-telegram-bot/python-telegram-bot) per interagire con [Telegram](https://telegram.org/)
 * [paho-mqtt](https://pypi.org/project/paho-mqtt/)
@@ -16,7 +16,7 @@ Contapunti per biliardino
 	pip install python-telegram-bot
 	pip install paho-mqtt
 
-##Connessioni da Arietta verso i sensori
+## Connessioni da Arietta verso i sensori
 
 Segnali su connettore flat 8+8 pin
 
@@ -47,7 +47,7 @@ Altri segnali
 | Spia verde | J4.26         |
 | IR_PULL    | J4.40         |
 
-##Links
+## Links
 
 * [@TabelloneBot](https://telegram.me/TabelloneBot)
 * [Pinout Arietta G25](http://pinout.acmesystems.it)
